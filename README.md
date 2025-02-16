@@ -10,9 +10,9 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJyOGxjNHRsdTloY3BzZ21sajM1MDVuemw1eTU3c25sMWJlbHFoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/t2fdIlhRSEtr64lq5l/giphy.gif" width="100"/>
 
   <div id="badges">
-    <a href="https://www.youtube.com/@alandersondepaula1212" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-    <a href = "mailto:alanderson.paula@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/alanderson-de-paula" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href = "mailto:alanderson.paula@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.youtube.com/@alandersondepaula1212" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   </div>
 <!-- <img src="https://komarev.com/ghpvc/?username=Alanderson-Paula&style=flat-square&color=blue" alt=""/> -->
 </div>
