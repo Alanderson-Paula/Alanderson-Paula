@@ -34,7 +34,7 @@
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alanderson-Paula&theme=transparent&bg_color=323232&border_color=323232&show_icons=true&icon_color=30A3DC&title_color=&text_color=D6DAFF&hide_title=true&hide=stars)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alanderson-Paula&theme=react-dark)](https://github.com/Alanderson-Paula/github-readme-activity-graph)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alanderson-Paula&theme=react-dark)
 
 
 
