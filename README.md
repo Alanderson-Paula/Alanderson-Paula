@@ -36,6 +36,7 @@
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alanderson-Paula&theme=react-dark)
 
+![Snake animation](https://github.com/Alanderson-Paula/Alanderson-Paula/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
