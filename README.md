@@ -32,7 +32,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
 ## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alanderson-Paula&theme=transparent&count_private=true&bg_color=323232&border_color=323232&show_icons=true&icon_color=30A3DC&title_color=&text_color=D6DAFF&hide_title=true&hide=stars)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alanderson-Paula&theme=transparent&count_private=true&bg_color=323232&border_color=323232&show_icons=true&icon_color=30A3DC&title_color=&text_color=D6DAFF&hide_title=true&hide=stars) -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alanderson-Paula&theme=transparent&bg_color=323232&border_color=323232&show_icons=true&count_private=true&icon_color=30A3DC&title_color=&text_color=D6DAFF&hide_title=true&hide=stars)
+
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alanderson-Paula&theme=react-dark)
 
