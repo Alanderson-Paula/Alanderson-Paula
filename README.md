@@ -61,11 +61,10 @@ Acredito na aplicação prática da tecnologia para resolver problemas reais.
 ## GitHub Statistics
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Alanderson-Paula&show_icons=true&theme=transparent&hide_title=true&hide=stars&include_all_commits=true" alt="GitHub Statistics"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alanderson-Paula&theme=react-dark" alt="GitHub Activity Graph"/>
-
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=Alanderson-Paula&show_icons=true&theme=transparent&hide_title=true&hide=stars&include_all_commits=true"
+    alt="GitHub Statistics"
+  />
 </div>
 
 ## Contribution Activity
