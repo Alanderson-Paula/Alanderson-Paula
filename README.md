@@ -1,4 +1,4 @@
- <div align="center">
+ <div align="center"><img src="assets/avatar-github.png" alt="Avatar de Alanderson de Paula — Automação, Tecnologia e Inovação" width="360">
 
 # Olá, seja bem-vindo! 👋
 
@@ -83,6 +83,6 @@ Acredito na aplicação prática da tecnologia para resolver problemas reais.
 
 <div align="center">
 
-**Engenharia | Automação | Tecnologia | Desenvolvimento**
+**Engenharia | Automação | Tecnologia | Desenvolvimento | Inovação**
 
 </div>
