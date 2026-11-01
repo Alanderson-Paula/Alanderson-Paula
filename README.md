@@ -1,65 +1,89 @@
+ <div align="center">
+
+# Olá, seja bem-vindo! 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1500&center=true&vCenter=true&random=false&width=500&lines=Engenharia+de+Controle+e+Automa%C3%A7%C3%A3o;Automa%C3%A7%C3%A3o+Industrial+e+Tecnologia;Desenvolvimento+de+Software+e+IA)](https://git.io/typing-svg)
+
+</div>
+
 <div align="center">
 
-## Olá a todos 👋
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJyOGxjNHRsdTloY3BzZ21sajM1MDVuemw1eTU3c25sMWJlbHFoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/t2fdIlhRSEtr64lq5l/giphy.gif" width="100" alt="Animação"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Bem+vindo+ao+meu+perfil+do+GitHub!)](https://git.io/typing-svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanderson-de-paula)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alanderson.paula@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@alandersondepaula1212)
 
 </div>
 
-<div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJyOGxjNHRsdTloY3BzZ21sajM1MDVuemw1eTU3c25sMWJlbHFoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/t2fdIlhRSEtr64lq5l/giphy.gif" width="100"/>
+---
 
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/alanderson-de-paula" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "mailto:alanderson.paula@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.youtube.com/@alandersondepaula1212" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  </div>
-<!-- <img src="https://komarev.com/ghpvc/?username=Alanderson-Paula&style=flat-square&color=blue" alt=""/> -->
+## Sobre mim
+
+Sou **Engenheiro de Controle e Automação**, com formação técnica em Mecatrônica e experiência profissional em automação industrial, manutenção elétrica e mecânica, instrumentação e sistemas de controle.
+
+Minha trajetória profissional está ligada à resolução de problemas industriais, análise de falhas, sistemas de automação e desenvolvimento de soluções técnicas.
+
+Tenho interesse em ampliar a integração entre engenharia, tecnologia e desenvolvimento de software, explorando áreas como inteligência artificial, ciência de dados e processamento de imagens.
+
+Acredito na aplicação prática da tecnologia para resolver problemas reais.
+
+## Áreas de atuação e interesse
+
+- Automação industrial e sistemas de controle.
+- PLCs, IHMs e sistemas supervisórios.
+- Instrumentação industrial e análise de falhas.
+- Desenvolvimento de software e integração de sistemas.
+- Python, processamento de dados e visão computacional.
+- Inteligência artificial e ciência de dados.
+
+## Tecnologias e ferramentas
+
+<div align="center">
+
+<img align="center" alt="Python" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="center" alt="CSharp" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-line.svg"/>
+<img align="center" alt="PostgreSQL" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+<img align="center" alt="Arduino" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"/>
+<img align="center" alt="Git" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
 </div>
 
-##   Ferramentas e Tecnologias:
+## Em aprendizado e desenvolvimento
 
-<div style="display: inline_block">
-  <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="CSHARP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-line.svg">
-  <img align="center" alt="SQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="ARDUINO" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg">
-  <img align="center" alt="GIT" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<div align="center">
+
+<img align="center" alt="C++" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+<img align="center" alt="Linux" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+
 </div>
 
-## Estou aprendendo
+## GitHub Statistics
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<div align="center">
 
-## Github Stats
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alanderson-Paula&theme=transparent&count_private=true&bg_color=323232&border_color=323232&show_icons=true&icon_color=30A3DC&title_color=&text_color=D6DAFF&hide_title=true&hide=stars) -->
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Alanderson-Paula&show_icons=true&theme=transparent&hide_title=true&hide=stars&include_all_commits=true" alt="GitHub Statistics"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alanderson-Paula&theme=transparent&bg_color=323232&border_color=323232&show_icons=true&count_private=true&icon_color=30A3DC&title_color=&text_color=D6DAFF&hide_title=true&hide=stars)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alanderson-Paula&theme=react-dark" alt="GitHub Activity Graph"/>
 
+</div>
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alanderson-Paula&theme=react-dark)
+## Contribution Activity
 
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alanderson-Paula/Alanderson-Paula/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alanderson-Paula/Alanderson-Paula/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Alanderson-Paula/Alanderson-Paula/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alanderson-Paula/Alanderson-Paula/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Alanderson-Paula/Alanderson-Paula/output/github-contribution-grid-snake.svg">
 </picture>
 
+</div>
 
+---
 
-<!-- ![Snake animation](https://github.com/Alanderson-Paula/Alanderson-Paula/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
 
-**Alanderson-Paula/Alanderson-Paula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Engenharia | Automação | Tecnologia | Desenvolvimento**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
