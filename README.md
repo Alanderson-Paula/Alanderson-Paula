@@ -1,4 +1,4 @@
- <div align="center"><img src="assets/avatar-github2.png" alt="Avatar de Alanderson de Paula — Automação, Tecnologia e Inovação" width="360">
+ <div align="center"><img src="assets/avatar-github.png" alt="Avatar de Alanderson de Paula — Automação, Tecnologia e Inovação" width="360">
 
 # Olá, seja bem-vindo! 👋
 
